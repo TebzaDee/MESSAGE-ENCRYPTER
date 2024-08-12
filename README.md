@@ -36,22 +36,7 @@ The project is organized into several key components:
    - **Key Function**:
      - `main(String[] args)`: Initializes and runs the `SecureMessageFrame`.
 
-## How to Run the Application
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/secure-message-encryptor.git
-    ```
-
-2. **Compile the Code**:
-    ```bash
-    javac -d bin src/**/*.java
-    ```
-
-3. **Run the Application**:
-    ```bash
-    java -cp bin assigmentqu2test.AssigmentQu2Test
-    ```
 
 ## Features
 
